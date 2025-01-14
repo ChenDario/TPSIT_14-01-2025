@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    Ciao
+    <?php
+        echo "Hello World"
+    ?>
 </body>
 </html>
